@@ -26,3 +26,8 @@ Count Word Tool
   - edit file tool.rb
   - run $script/server 'Tool.count_flex'
 
+
+
+
+
+THANKS FOR USE !
