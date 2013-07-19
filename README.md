@@ -26,7 +26,9 @@ Count Word Tool
   - edit file tool.rb
   - run $script/server 'Tool.count_flex'
 
-
+4. Count word in .po file
+  - edit file count_word_po_tool.rb, input your dir need count
+  - run $ruby count_word_po_tool.rb
 
 
 
